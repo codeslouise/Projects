@@ -1,1 +1,1 @@
-# My projects in freeCodeCamp
+# My projects
